@@ -17,10 +17,10 @@ Technologies
 
 Folder Structure:-
   /models
-/public
+  /public
   /images
     /uploads
-/views
+  /views
 
 
 Usage

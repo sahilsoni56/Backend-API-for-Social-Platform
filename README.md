@@ -20,7 +20,7 @@ Folder Structure:-
   ->/public
   /images
     /uploads
-  -./views
+  ->/views
 
 
 Usage

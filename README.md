@@ -16,11 +16,11 @@ Technologies
   🔒 Password Hashing: bcrypt
 
 Folder Structure:-
-  /models
-  /public
+  ->/models
+  ->/public
   /images
     /uploads
-  /views
+  -./views
 
 
 Usage
